@@ -1,5 +1,5 @@
 __version__ = '1.5.1'
-__author__ = 'lordralinc'
+__author__ = 'Zeflrka'
 
 DEFAULT_DATABASE = {
   "tokens": [],
